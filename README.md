@@ -1,4 +1,4 @@
-# 🏄‍♂️ Forrest Knight
+# Adilet Nasirov
 
 **`Software Developer`**
 
