@@ -23,9 +23,4 @@ Studying in University gave me the basics insights of every aspect of programmin
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
 
----
-
-### How to reach me
-
-<a href="mailto:adiletnasirov@gmail.com">![adiletnasirov@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="<https://www.linkedin.com/in/adiush/>">![LinkedIn](https://www.linkedin.com/in/adiush/)</a>
 
